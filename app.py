@@ -74,3 +74,4 @@ while True:
                 coffee -= ingredients.get("coffee", 0)
 
                 print(f" Here is your {choice}. Enjoy")
+ 
